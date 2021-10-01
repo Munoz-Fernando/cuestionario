@@ -1,1 +1,60 @@
-Tu Turno novato
+Muñoz Valencia Fernando, Ten Terreros Juan Pablo. 4F
+1
+En tus palabras, ¿Qué es internet?
+El internet es un sitio donde puedes consultar la mayor parte 
+de cosas que existen en distintas páginas web las cuáles pueden 
+satisfacer nuestras necesidades básicas 
+2
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Cables de fibra optica: son cables distribuidos por todo el mundo, 
+para transmitir información a velocidad de la luz, esto se logra 
+gracias a que la fibra optica son cables de cristal que reflegan 
+el Codigo hasta llegar al destino esto en cuestión de microsegundos
+Ondas de radio: para los dispositivos inalambricos estan las ondas
+ de radio, esto ocurre cuando el codio binario se transforma en onda 
+ de radio y se envia la información a torres de radio
+3
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Se organiza mediante las páginas web las cuales pueden variar 
+dependiendo la necesidad, la dirección ip es un protocolo el 
+cual manda los datos del internet a la red donde estas conectado, 
+el dns es una guía la cual nos permite navegar más rápido 
+4
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Lo primero es la orden que das al servidor de entregarte una
+canción. Ahora, una ves que se manda la orden, puesto que la 
+conción esta compuesta por multiples bits, es por eso que se 
+requiere de hacer paquetes que contengan sierta cantidad de 
+esos bits y son distribuidos en una trallectoria parecida a 
+calles que dependiendo cuanto trancito haya tomara otras rutas 
+o no, esto se logra por medio de ruters, que mandan la señal de 
+cambiar de dirección los paquetes
+
+5
+Describe los protocolos que existen en internet, en específico 
+HTTP y HTML El http sirve para distintos protocolos donde podemos 
+pedir peticiones acerca de alguna búsqueda en algo que estemos 
+interesados, el html es la conexion mediante enlaces entre varias 
+páginas web
+
+6
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+El encriptado se basa en un metodo de la antigua Roma, llamado
+Codigo Cesar un general romano que encriptaba sus ordenes a sus 
+generales por si esos eran interseptados por el enemigo y fuera 
+imposible desifrarlo.
+la base de este encripado es un algoritmo que da una "llave" o 
+sierta cantidad de veces que ira abajo hacia el abecedario, si
+el numero lo conoce tanto el que envia como el que lo recive se
+conoce como llave.
+7
+Aprendí que hay distintas maneras de protegerse, como por ejemplo 
+previniendo abrir enlaces sospechosos o ignorar correos de sitios
+o personas desconocidas donde igualmente pueden contener los enlaces
+anteriormente mencionados. Otro método es ciertos sistemas como un
+antivirus al momento de descargar algo y manteniéndolo actualizado.
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+8
+¿Cómo funciona la búsqueda de google?
+Por medio de un algoritmo, que utiliza palabras clave para saber 
+que es lo que quieres buscar
